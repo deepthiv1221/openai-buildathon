@@ -1,5 +1,7 @@
 # MedGPT Pro - AI-Powered Medical Research & Clinical Assistant
 
+complete Demo of the proejct - https://www.loom.com/share/9381e2bd2a5c4bd89eb5e0900d3b142d
+
 ## Problem Statement
 - Over 50,000+ new medical papers published weekly globally
 - Doctors can dedicate only 5 hours/week to reading research
