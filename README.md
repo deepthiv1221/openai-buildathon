@@ -123,6 +123,13 @@ This MVP proves that:
 - Hospital system integration
 - FDA compliance planning
 - Mobile app (iOS/Android)
+  
+##SCREENSHOTS
+LOGIN PAGE - <img width="400" height="238" alt="image" src="https://github.com/user-attachments/assets/c1d16621-94e2-4f7a-9353-1037e23616c1" /> 
+DOCTORS PORTAL - <img width="1914" height="821" alt="image" src="https://github.com/user-attachments/assets/bcf37c6f-25a8-4a7e-a07c-30bc27e43ca6" />
+<img width="1830" height="654" alt="image" src="https://github.com/user-attachments/assets/87f4e3ef-24d3-4f8f-bbae-3f7819fe20bf" />
+PATIENTS PORTAL - <img width="1865" height="826" alt="image" src="https://github.com/user-attachments/assets/3a8d7b2f-704a-4a8b-99f7-8395e199dd20" />
+<img width="1848" height="811" alt="image" src="https://github.com/user-attachments/assets/c4196e9c-1dda-4fa4-9bd6-44dc9e0e4e5b" />
 
 ## License
 MIT
